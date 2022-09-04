@@ -1,9 +1,5 @@
 ## English
 
-#### [Lees in het Nederlands](Nederlands)
-
----
-
 <h1 align="center">Hi! 👋</h1>
 
 My name is Jordy Slagter, but I'm also known as Avery.
@@ -25,8 +21,6 @@ communist revolution of the 21st century.
 ---
 
 ## Nederlands
-
-#### [Read in English](English)
 
 <h1 align="center">Hoi! 👋</h1>
 
