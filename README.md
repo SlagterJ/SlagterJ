@@ -4,6 +4,6 @@ Here is some information about myself and my workflow:
 
 - **Distro:** Arch Linux
 - **DE:** KDE Plasma
-- **Editor:** Lunarvim (with Tmux)
+- **Editor:** Visual Studio Code (With Vim keys)
 - **Shell:** Fish
 - **Colour scheme:** Catppuccin Mocha
