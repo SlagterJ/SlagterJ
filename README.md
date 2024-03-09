@@ -2,7 +2,6 @@
 
 Here is some information about myself and my workflow:
 
-- **OS:** Windows 11 Pro + Arch Linux WSL
+- **OS:** Arch Linux
+- **DE:** Gnome
 - **Editor:** Visual Studio Code (With Vim keys)
-- **Shell:** Fish
-- **Colour scheme:** Catppuccin Mocha
